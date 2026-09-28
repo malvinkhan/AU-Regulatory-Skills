@@ -11,7 +11,7 @@ These skills encode general regulatory frameworks and workflows — they do not 
 | [`tga-regulatory-analysis`](./tga-regulatory-analysis) | Classifies pharmaceutical changes (CCRs, stability data) against TGA variation types (Notification / SAR / Category 3 / Category 1) | ✅ Available |
 | `tgo91` | TGO 91 (General requirements for labels for medicines) compliance analysis | 🟡 Planned |
 | `tgo92` | TGO 92 (Standard for labels of prescription and related medicines) compliance analysis | 🟡 Planned |
-| `pi-cmi-analyser` | Product Information (PI) / Consumer Medicine Information (CMI) analysis — e.g. comparing against reference product updates, flagging discrepancies | 🟡 Planned |
+| [`pi-cmi-gap-analysis`](./pi-cmi-gap-analysis) | Section-by-section gap analysis of PI/CMI documents — reference comparison, multi-brand consistency, PI↔CMI consistency, or structural/quality audit | ✅ Available |
 
 ## Usage
 

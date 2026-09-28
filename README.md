@@ -16,6 +16,12 @@ These skills encode general regulatory frameworks and workflows — they do not 
 
 Each skill folder contains its own `SKILL.md` with the skill definition, and a `references/` folder for any supporting documents. Where a reference document is copyrighted government material (e.g. TGA guidance), it is **not bundled in this repo** — see the relevant skill's `references/README.md` for a link to the official source and instructions to add your own local copy.
 
+## Templates
+
+| Template | Purpose |
+|---|---|
+| [`ccr-task-tracker`](./ccr-task-tracker) | Notion database template for tracking Change Control Requests through the regulatory lifecycle |
+
 ## Disclaimer
 
 These skills support regulatory decision-making but are not a substitute for formal TGA advice or review by a qualified Regulatory Affairs professional. Always verify outputs against current official guidance.
